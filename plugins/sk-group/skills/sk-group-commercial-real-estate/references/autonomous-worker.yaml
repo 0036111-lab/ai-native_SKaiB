@@ -6,6 +6,14 @@ workflow: skaib-outreach
 queue: outreach
 execution_mode: autonomous
 
+crm:
+  workspace_name: CRM
+  workspace_id: 6e16976a-03f0-5f88-8791-6362ab80a424
+  gateway_repository: 0036111-lab/gateway-mcp_SKaiB
+  require_fixed_workspace: true
+  allow_workspace_creation: false
+  funds_category_record_id: 4e3e26fd-3521-4b03-ac9a-05c877654b76
+
 limits:
   max_steps: 12
   max_retries: 2
