@@ -1,0 +1,54 @@
+schema: 1
+id: skaib-outreach-worker
+runtime: hermes
+identity: service:hermes-outreach
+workflow: skaib-outreach
+queue: outreach
+execution_mode: autonomous
+
+limits:
+  max_steps: 12
+  max_retries: 2
+  task_timeout_seconds: 900
+  lease_seconds: 300
+  require_idempotency_key: true
+
+allowed_stages:
+  - completeness_check
+  - data_normalization
+  - internal_search
+  - company_space_match
+  - candidate_ranking
+  - contact_verification
+  - draft_fact_check
+  - reply_classification
+
+human_gated_stages:
+  - external_research
+  - draft_email
+  - send_email
+
+forbidden_actions:
+  - exclude_candidate
+  - use_unverified_contact
+  - approve_outreach
+  - send_email
+  - mark_communication_sent
+  - delete_record
+  - change_access
+  - read_provider_secret
+
+on_guardrail:
+  state: waiting_for_human
+  create_task: true
+  include_safe_reason: true
+
+telemetry:
+  enabled: true
+  safe_fields:
+    - workflow
+    - stage
+    - model_profile
+    - status
+    - duration_ms
+    - numeric_counts
