@@ -1,0 +1,14 @@
+{
+  "name": "sk-group",
+  "version": "0.1.0",
+  "description": "Рабочий агент СК Групп для коммерческой недвижимости: объекты, площади, подбор арендаторов, согласования, письма и задачи через GatewayMCP.",
+  "author": {
+    "name": "coMind",
+    "email": "team@comind.space",
+    "url": "https://comind.space"
+  },
+  "skills": "skills",
+  "metadata": {
+    "platformRelease": "2026.09.11"
+  }
+}

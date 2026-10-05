@@ -18,6 +18,16 @@
         "sequential-thinking",
         "document-templates"
       ]
+    },
+    {
+      "name": "sk-group",
+      "version": "0.1.0",
+      "displayName": "СК Групп",
+      "category": "Productivity",
+      "description": "Рабочий агент СК Групп для коммерческой недвижимости: объекты, площади, подбор арендаторов, согласования, письма и задачи через GatewayMCP.",
+      "skills": [
+        "sk-group-commercial-real-estate"
+      ]
     }
   ]
 }

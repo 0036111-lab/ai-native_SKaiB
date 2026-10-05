@@ -1,0 +1,29 @@
+{
+  "name": "sk-group",
+  "displayName": "СК Групп",
+  "version": "0.1.0",
+  "description": "Рабочий агент СК Групп для коммерческой недвижимости: объекты, площади, подбор арендаторов, согласования, письма и задачи через GatewayMCP.",
+  "author": {
+    "name": "coMind",
+    "email": "team@comind.space"
+  },
+  "homepage": "https://comind.space",
+  "repository": "https://github.com/comindspace/ai-native",
+  "license": "UNLICENSED",
+  "keywords": [
+    "agents",
+    "skills",
+    "ai-native",
+    "productivity"
+  ],
+  "category": "productivity",
+  "tags": [
+    "productivity",
+    "skills",
+    "agent-skills"
+  ],
+  "skills": "./skills/",
+  "metadata": {
+    "platformRelease": "2026.09.11"
+  }
+}

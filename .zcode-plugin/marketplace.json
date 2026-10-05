@@ -14,6 +14,14 @@
       "version": "0.3.0",
       "category": "AI",
       "platformRelease": "2026.09.11"
+    },
+    {
+      "name": "sk-group",
+      "source": "./plugins/sk-group",
+      "description": "Рабочий агент СК Групп для коммерческой недвижимости: объекты, площади, подбор арендаторов, согласования, письма и задачи через GatewayMCP.",
+      "version": "0.1.0",
+      "category": "Productivity",
+      "platformRelease": "2026.09.11"
     }
   ]
 }

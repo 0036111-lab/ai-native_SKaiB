@@ -1,0 +1,23 @@
+schema: 1
+name: sk-group-commercial-real-estate
+version: 0.1.0
+title: "СК Групп — коммерческая недвижимость"
+description: "Ведёт процесс СК Групп от добавления объекта и площади до подбора арендаторов, проверки контактов, согласования обращения, создания черновика письма и контроля ответа. Используй для работы с объектами, площадями, компаниями, контактами, матчами, КП, коммуникациями и задачами СК Групп."
+compatible_agents:
+  - claude
+  - codex
+  - cursor
+  - opencode
+  - openclaw
+  - hermes
+  - zcode
+requires:
+  mcp:
+    - gateway-mcp
+  permissions:
+    filesystem: read
+resources:
+  skill: SKILL.md
+  references: true
+  scripts: false
+  assets: false

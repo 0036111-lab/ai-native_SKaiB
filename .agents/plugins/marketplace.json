@@ -18,6 +18,18 @@
       "category": "AI"
     },
     {
+      "name": "sk-group",
+      "source": {
+        "source": "local",
+        "path": "./plugins/sk-group"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "gateway-mcp",
       "source": {
         "source": "local",
