@@ -21,10 +21,10 @@
     },
     {
       "name": "sk-group",
-      "version": "0.1.0",
-      "displayName": "СК Групп",
+      "version": "0.2.0",
+      "displayName": "Аутрич SKaiB",
       "category": "Productivity",
-      "description": "Рабочий агент СК Групп для коммерческой недвижимости: объекты, площади, подбор арендаторов, согласования, письма и задачи через GatewayMCP.",
+      "description": "Аутрич-агент SKaiB для коммерческой недвижимости: объекты, площади, подбор арендаторов, согласования, письма и задачи через GatewayMCP.",
       "skills": [
         "sk-group-commercial-real-estate"
       ]
