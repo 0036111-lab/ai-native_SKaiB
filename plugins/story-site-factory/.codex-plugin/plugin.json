@@ -1,0 +1,33 @@
+{
+  "name": "story-site-factory",
+  "version": "0.1.0",
+  "description": "От фактов и материалов до работающего опубликованного промосайта: структура, контент, визуальный язык, motion, SEO/GEO, адаптивность и выпуск.",
+  "author": {
+    "name": "coMind",
+    "email": "team@comind.space",
+    "url": "https://comind.space"
+  },
+  "keywords": [
+    "agents",
+    "skills",
+    "ai-native",
+    "marketing"
+  ],
+  "skills": "./skills/",
+  "metadata": {
+    "platformRelease": "2026.09.11"
+  },
+  "interface": {
+    "displayName": "Story Site Factory",
+    "shortDescription": "От фактов и материалов до работающего опубликованного промосайта: структура, контент, визуальный язык, motion, SEO/GEO, адаптивность и выпуск.",
+    "longDescription": "От фактов и материалов до работающего опубликованного промосайта: структура, контент, визуальный язык, motion, SEO/GEO, адаптивность и выпуск.",
+    "developerName": "coMind",
+    "category": "Marketing",
+    "capabilities": [
+      "Skills"
+    ],
+    "defaultPrompt": [
+      "Use Story Site Factory for this work."
+    ]
+  }
+}

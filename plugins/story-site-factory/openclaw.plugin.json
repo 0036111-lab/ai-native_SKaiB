@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "name": "story-site-factory",
+  "version": "0.1.0",
+  "description": "От фактов и материалов до работающего опубликованного промосайта: структура, контент, визуальный язык, motion, SEO/GEO, адаптивность и выпуск.",
+  "skills": [
+    "./skills"
+  ],
+  "metadata": {
+    "openclaw": {
+      "category": "Marketing"
+    },
+    "platformRelease": "2026.09.11"
+  }
+}
