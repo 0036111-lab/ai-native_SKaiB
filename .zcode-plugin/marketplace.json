@@ -22,6 +22,14 @@
       "version": "0.2.0",
       "category": "Productivity",
       "platformRelease": "2026.09.11"
+    },
+    {
+      "name": "novaia-vysota",
+      "source": "./plugins/novaia-vysota",
+      "description": "Повторно используемый процесс нейминга для проекта «Новая высота»: бриф, смысловые территории, итерационные волны названий, журнал фаворитов и итоговый шорт-лист.",
+      "version": "0.1.0",
+      "category": "Productivity",
+      "platformRelease": "2026.09.11"
     }
   ]
 }

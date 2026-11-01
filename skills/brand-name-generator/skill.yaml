@@ -1,0 +1,26 @@
+schema: 1
+name: brand-name-generator
+version: 0.1.0
+title: "Генератор названий бренда"
+description: "Проводит профессиональный процесс нейминга для бренда, продукта, проекта или репозитория: от стратегического брифа и смысловых территорий до нескольких волн вариантов, журнала фаворитов и итогового шорт-листа. Используй, когда нужно придумать, уточнить или сменить название."
+compatible_agents:
+  - claude
+  - codex
+  - cursor
+  - opencode
+  - openclaw
+  - hermes
+  - zcode
+requires:
+  mcp: []
+  permissions:
+    filesystem: write
+resources:
+  skill: SKILL.md
+  references: true
+  scripts: false
+  assets: true
+provenance:
+  source: "https://github.com/dbknv/brand-name-generator-skill"
+  source_revision: "42b87e69603b8ef536babd9026bda4c463c5ad68"
+  license: "MIT"

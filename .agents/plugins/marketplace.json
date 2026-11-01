@@ -30,6 +30,18 @@
       "category": "Productivity"
     },
     {
+      "name": "novaia-vysota",
+      "source": {
+        "source": "local",
+        "path": "./plugins/novaia-vysota"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "gateway-mcp",
       "source": {
         "source": "local",

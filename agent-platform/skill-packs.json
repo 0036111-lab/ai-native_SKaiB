@@ -28,6 +28,16 @@
       "skills": [
         "sk-group-commercial-real-estate"
       ]
+    },
+    {
+      "name": "novaia-vysota",
+      "version": "0.1.0",
+      "displayName": "Новая высота — нейминг",
+      "category": "Productivity",
+      "description": "Повторно используемый процесс нейминга для проекта «Новая высота»: бриф, смысловые территории, итерационные волны названий, журнал фаворитов и итоговый шорт-лист.",
+      "skills": [
+        "brand-name-generator"
+      ]
     }
   ]
 }
