@@ -38,6 +38,16 @@
       "skills": [
         "brand-name-generator"
       ]
+    },
+    {
+      "name": "novaya-vysota-template",
+      "version": "0.1.0",
+      "displayName": "Шаблон спортивного story-site",
+      "category": "Marketing",
+      "description": "Переиспользуемый шаблон медийного сайта о спортсмене и поддерживающей его платформе: видео-обложка, история, путь к цели, партнёрское предложение, команда, форма и SEO/GEO.",
+      "skills": [
+        "novaya-vysota-template"
+      ]
     }
   ]
 }

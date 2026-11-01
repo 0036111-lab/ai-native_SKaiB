@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>[HERO_NAME] — [DISCIPLINE] и путь к [GOAL]</title>
+  <meta name="description" content="История [HERO_NAME], программа подготовки и предложение партнёрам.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="nav"><a href="#top" class="brand">НОВАЯ ВЫСОТА</a><button class="menu" aria-expanded="false">Меню</button></header>
+  <main id="top">
+    <section class="hero">
+      <video class="hero-media" autoplay muted loop playsinline poster="assets/poster.jpg"><source src="assets/hero.webm" type="video/webm"><source src="assets/hero.mp4" type="video/mp4"></video>
+      <div class="shade"></div><div class="hero-copy"><p>[CITY] · [DISCIPLINE]</p><h1><em>[HERO_NAME]</em><br>[GOAL]</h1><p class="lead">[STRONGEST_VERIFIED_PROOF]. Следующая высота — [NEXT_STEP].</p><div class="actions"><a class="primary" href="#partners">Стать партнёром</a><a href="#story">Узнать историю</a></div></div>
+    </section>
+    <section class="ticker" aria-label="Ключевые факты"><span>[PROOF_1] ◆ [PROOF_2] ◆ [PROOF_3] ◆ [GOAL]</span></section>
+    <section id="story" class="split"><p class="eyebrow">История роста</p><div><h2>Не один старт.<br>Системный рост.</h2><p>[VERIFIED_GROWTH_STORY]</p></div></section>
+    <section class="dark"><p class="eyebrow">Путь</p><h2>[TIME_HORIZON] до главной цели</h2><ol class="timeline"><li><b>01</b><span>[STAGE_1]</span></li><li><b>02</b><span>[STAGE_2]</span></li><li><b>03</b><span>[STAGE_3]</span></li></ol></section>
+    <section class="split"><p class="eyebrow">О проекте</p><div><h2>Талант становится системой.</h2><p>[PLATFORM_PHILOSOPHY]</p></div></section>
+    <section id="partners" class="partners"><p class="eyebrow">Предложение партнёрам</p><h2>Стать частью пути.</h2><p>[PARTNER_VALUE]</p><button class="primary" data-open>Получить условия</button></section>
+  </main>
+  <dialog><button data-close aria-label="Закрыть">×</button><p class="eyebrow">Партнёрство</p><h2>Получить условия</h2><form><label>Имя<input name="name" required></label><label>Контакт<input name="contact" required></label><label>Комментарий<textarea name="message"></textarea></label><label class="consent"><input type="checkbox" required> Согласен на обработку данных</label><button class="primary">Отправить</button></form><p class="fallback">Если форма ещё не подключена: [PUBLIC_CONTACT]</p></dialog>
+  <script src="app.js"></script>
+</body>
+</html>

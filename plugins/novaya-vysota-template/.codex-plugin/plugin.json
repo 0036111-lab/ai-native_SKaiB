@@ -1,0 +1,33 @@
+{
+  "name": "novaya-vysota-template",
+  "version": "0.1.0",
+  "description": "Переиспользуемый шаблон медийного сайта о спортсмене и поддерживающей его платформе: видео-обложка, история, путь к цели, партнёрское предложение, команда, форма и SEO/GEO.",
+  "author": {
+    "name": "coMind",
+    "email": "team@comind.space",
+    "url": "https://comind.space"
+  },
+  "keywords": [
+    "agents",
+    "skills",
+    "ai-native",
+    "marketing"
+  ],
+  "skills": "./skills/",
+  "metadata": {
+    "platformRelease": "2026.09.11"
+  },
+  "interface": {
+    "displayName": "Шаблон спортивного story-site",
+    "shortDescription": "Переиспользуемый шаблон медийного сайта о спортсмене и поддерживающей его платформе: видео-обложка, история, путь к цели, партнёрское предложение, команда, форма и SEO/GEO.",
+    "longDescription": "Переиспользуемый шаблон медийного сайта о спортсмене и поддерживающей его платформе: видео-обложка, история, путь к цели, партнёрское предложение, команда, форма и SEO/GEO.",
+    "developerName": "coMind",
+    "category": "Marketing",
+    "capabilities": [
+      "Skills"
+    ],
+    "defaultPrompt": [
+      "Use Шаблон спортивного story-site for this work."
+    ]
+  }
+}

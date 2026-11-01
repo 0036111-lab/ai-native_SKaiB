@@ -1,0 +1,13 @@
+{
+  "name": "novaya-vysota-template",
+  "version": "0.1.0",
+  "description": "Переиспользуемый шаблон медийного сайта о спортсмене и поддерживающей его платформе: видео-обложка, история, путь к цели, партнёрское предложение, команда, форма и SEO/GEO.",
+  "author": {
+    "name": "coMind",
+    "email": "team@comind.space",
+    "url": "https://comind.space"
+  },
+  "metadata": {
+    "platformRelease": "2026.09.11"
+  }
+}
