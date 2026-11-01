@@ -30,10 +30,10 @@
       "category": "Productivity"
     },
     {
-      "name": "novaia-vysota",
+      "name": "brand-naming",
       "source": {
         "source": "local",
-        "path": "./plugins/novaia-vysota"
+        "path": "./plugins/brand-naming"
       },
       "policy": {
         "installation": "AVAILABLE",
