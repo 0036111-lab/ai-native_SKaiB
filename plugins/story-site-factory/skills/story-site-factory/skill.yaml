@@ -1,0 +1,22 @@
+schema: 1
+name: story-site-factory
+version: 0.1.0
+title: "Story Site Factory"
+description: "Проектирует, собирает, проверяет и выпускает содержательные промосайты с сильной историей, адаптивным визуальным языком, SEO/GEO-основой и измеримым CTA."
+compatible_agents:
+  - claude
+  - codex
+  - cursor
+  - opencode
+  - openclaw
+  - hermes
+  - zcode
+requires:
+  mcp: []
+  permissions:
+    filesystem: write
+resources:
+  skill: SKILL.md
+  references: true
+  scripts: false
+  assets: false

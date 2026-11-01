@@ -11,6 +11,7 @@ PACKS = {
     'ai-native-core': ['ai-native-core-starter-kit', 'ai-native-proposal', 'architect', 'smd-drawio', 'func-arch-drawio', 'eepc-drawio', 'editorial-style', 'sequential-thinking', 'document-templates'],
     'sk-group': ['sk-group-commercial-real-estate'],
     'brand-naming': ['brand-name-generator'],
+    'story-site-factory': ['story-site-factory'],
 }
 
 
