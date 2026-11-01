@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "name": "novaya-vysota-template",
+  "version": "0.1.0",
+  "description": "Переиспользуемый шаблон медийного сайта о спортсмене и поддерживающей его платформе: видео-обложка, история, путь к цели, партнёрское предложение, команда, форма и SEO/GEO.",
+  "skills": [
+    "./skills"
+  ],
+  "metadata": {
+    "openclaw": {
+      "category": "Marketing"
+    },
+    "platformRelease": "2026.09.11"
+  }
+}

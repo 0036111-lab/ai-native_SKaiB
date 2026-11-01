@@ -1,0 +1,25 @@
+schema: 1
+name: novaya-vysota-template
+version: 0.1.0
+title: "Шаблон спортивного story-site"
+description: "Создаёт новый сайт по проверенной архитектуре проекта «Новая высота»: главный герой, видео, история роста, большая цель, программа поддержки, семейный или культурный контекст, партнёрское предложение и заявка. Используй для быстрого запуска следующего спортивного или социального проекта без копирования персональных данных исходного кейса."
+compatible_agents:
+  - claude
+  - codex
+  - cursor
+  - opencode
+  - openclaw
+  - hermes
+  - zcode
+requires:
+  mcp: []
+  permissions:
+    filesystem: write
+resources:
+  skill: SKILL.md
+  references: true
+  scripts: false
+  assets: true
+provenance:
+  source: "original"
+  license: "Proprietary"

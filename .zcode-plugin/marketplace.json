@@ -30,6 +30,14 @@
       "version": "0.1.0",
       "category": "Productivity",
       "platformRelease": "2026.09.11"
+    },
+    {
+      "name": "novaya-vysota-template",
+      "source": "./plugins/novaya-vysota-template",
+      "description": "Переиспользуемый шаблон медийного сайта о спортсмене и поддерживающей его платформе: видео-обложка, история, путь к цели, партнёрское предложение, команда, форма и SEO/GEO.",
+      "version": "0.1.0",
+      "category": "Marketing",
+      "platformRelease": "2026.09.11"
     }
   ]
 }
