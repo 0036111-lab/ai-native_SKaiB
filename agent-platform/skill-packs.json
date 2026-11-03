@@ -38,6 +38,16 @@
       "skills": [
         "brand-name-generator"
       ]
+    },
+    {
+      "name": "project-boards",
+      "version": "0.1.0",
+      "displayName": "Проектные доски",
+      "category": "Productivity",
+      "description": "Ведение досок разных проектов с отдельным контекстом. Требуется подключение Figma.",
+      "skills": [
+        "maintain-project-board"
+      ]
     }
   ]
 }
