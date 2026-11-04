@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma Diagram Studio"
+  short_description: "Профессиональные схемы и архитектурные карты в Figma"
+  default_prompt: "Создай профессиональную редактируемую схему в Figma/FigJam по моим материалам."

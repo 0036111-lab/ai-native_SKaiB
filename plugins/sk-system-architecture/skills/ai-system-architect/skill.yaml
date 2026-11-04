@@ -1,0 +1,24 @@
+schema: 1
+name: ai-system-architect
+version: 0.1.0
+title: "Архитектор ИИ-системы"
+description: "Координация фактической карты, контекстной архитектуры и профессиональной схемы ИИ-системы в Figma."
+compatible_agents:
+  - claude
+  - codex
+  - cursor
+  - opencode
+  - openclaw
+  - hermes
+  - zcode
+requires:
+  mcp:
+    - gateway-mcp
+    - figma
+  permissions:
+    filesystem: read
+resources:
+  skill: SKILL.md
+  references: false
+  scripts: false
+  assets: false

@@ -30,6 +30,14 @@
       "version": "0.1.0",
       "category": "Productivity",
       "platformRelease": "2026.09.11"
+    },
+    {
+      "name": "sk-system-architecture",
+      "source": "./plugins/sk-system-architecture",
+      "description": "Совместное проектирование, проверка и визуализация архитектуры ИИ-системы: фактическая карта, контекст-инжиниринг и редактируемые схемы в Figma.",
+      "version": "0.1.0",
+      "category": "AI",
+      "platformRelease": "2026.09.11"
     }
   ]
 }

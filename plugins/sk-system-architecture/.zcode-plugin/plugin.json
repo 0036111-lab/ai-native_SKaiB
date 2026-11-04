@@ -1,0 +1,14 @@
+{
+  "name": "sk-system-architecture",
+  "version": "0.1.0",
+  "description": "Совместное проектирование, проверка и визуализация архитектуры ИИ-системы: фактическая карта, контекст-инжиниринг и редактируемые схемы в Figma.",
+  "author": {
+    "name": "coMind",
+    "email": "team@comind.space",
+    "url": "https://comind.space"
+  },
+  "skills": "skills",
+  "metadata": {
+    "platformRelease": "2026.09.11"
+  }
+}

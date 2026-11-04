@@ -27,6 +27,13 @@
       "platformRelease": "2026.09.11"
     },
     {
+      "name": "sk-system-architecture",
+      "source": "./plugins/sk-system-architecture",
+      "description": "Совместное проектирование, проверка и визуализация архитектуры ИИ-системы: фактическая карта, контекст-инжиниринг и редактируемые схемы в Figma.",
+      "version": "0.1.0",
+      "platformRelease": "2026.09.11"
+    },
+    {
       "name": "gateway-mcp",
       "source": "./plugins/gateway-mcp",
       "description": "Single GatewayMCP boundary for private MCP servers, company context, and corporate memory.",

@@ -1,0 +1,23 @@
+schema: 1
+name: system-map
+version: 0.1.0
+title: "Карта системы"
+description: "Фактическая архитектура ИТ- и AI-систем, доказательства состояния и отдельная диагностическая схема."
+compatible_agents:
+  - claude
+  - codex
+  - cursor
+  - opencode
+  - openclaw
+  - hermes
+  - zcode
+requires:
+  mcp:
+    - gateway-mcp
+  permissions:
+    filesystem: read
+resources:
+  skill: SKILL.md
+  references: false
+  scripts: false
+  assets: false

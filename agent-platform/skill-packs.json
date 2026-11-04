@@ -38,6 +38,19 @@
       "skills": [
         "brand-name-generator"
       ]
+    },
+    {
+      "name": "sk-system-architecture",
+      "version": "0.1.0",
+      "displayName": "Архитектор ИИ-системы",
+      "category": "AI",
+      "description": "Совместное проектирование, проверка и визуализация архитектуры ИИ-системы: фактическая карта, контекст-инжиниринг и редактируемые схемы в Figma.",
+      "skills": [
+        "ai-system-architect",
+        "system-map",
+        "context-engineering",
+        "figma-diagram-studio"
+      ]
     }
   ]
 }
