@@ -1,0 +1,29 @@
+{
+  "name": "sk-system-architecture",
+  "displayName": "Архитектор ИИ-системы",
+  "version": "0.1.0",
+  "description": "Совместное проектирование, проверка и визуализация архитектуры ИИ-системы: фактическая карта, контекст-инжиниринг и редактируемые схемы в Figma.",
+  "author": {
+    "name": "coMind",
+    "email": "team@comind.space"
+  },
+  "homepage": "https://comind.space",
+  "repository": "https://github.com/comindspace/ai-native",
+  "license": "UNLICENSED",
+  "keywords": [
+    "agents",
+    "skills",
+    "ai-native",
+    "ai"
+  ],
+  "category": "ai",
+  "tags": [
+    "ai",
+    "skills",
+    "agent-skills"
+  ],
+  "skills": "./skills/",
+  "metadata": {
+    "platformRelease": "2026.09.11"
+  }
+}

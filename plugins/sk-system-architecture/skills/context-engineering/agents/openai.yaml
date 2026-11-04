@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context Engineering"
+  short_description: "Проектирует и проверяет контекст, память и RAG для AI-агентов"
+  default_prompt: "Спроектируй или проверь контекст-инжиниринг этой AI-системы."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Архитектор ИИ-системы"
+  short_description: "Карта и диагностика AI-платформы в Figma"
+  default_prompt: "Используй $ai-system-architect, чтобы обновить схему ИИ-системы в Figma и отделить фактическое состояние от диагностики и предложений."

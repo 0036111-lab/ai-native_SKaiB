@@ -1,0 +1,23 @@
+schema: 1
+name: figma-diagram-studio
+version: 0.1.0
+title: "Студия схем в Figma"
+description: "Профессиональные редактируемые архитектурные и процессные схемы в Figma или FigJam."
+compatible_agents:
+  - claude
+  - codex
+  - cursor
+  - opencode
+  - openclaw
+  - hermes
+  - zcode
+requires:
+  mcp:
+    - figma
+  permissions:
+    filesystem: read
+resources:
+  skill: SKILL.md
+  references: true
+  scripts: false
+  assets: false
