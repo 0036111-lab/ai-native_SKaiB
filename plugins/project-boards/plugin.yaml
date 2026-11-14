@@ -1,0 +1,4 @@
+name: project-boards
+version: "0.1.0"
+description: "Ведение досок разных проектов с отдельным контекстом. Требуется подключение Figma."
+platform_release: "2026.09.11"

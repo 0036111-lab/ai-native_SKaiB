@@ -1,0 +1,23 @@
+schema: 1
+name: maintain-project-board
+version: 0.1.0
+title: "Ведение проектных досок Figma"
+description: "Переиспользуемый метод ведения проектных досок с предметными навыками, сохранением контекста и проверкой изменений."
+compatible_agents:
+  - claude
+  - codex
+  - cursor
+  - opencode
+  - openclaw
+  - hermes
+  - zcode
+requires:
+  mcp:
+    - figma
+  permissions:
+    filesystem: read
+resources:
+  skill: SKILL.md
+  references: false
+  scripts: false
+  assets: false

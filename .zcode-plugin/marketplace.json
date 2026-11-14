@@ -30,6 +30,14 @@
       "version": "0.1.0",
       "category": "Productivity",
       "platformRelease": "2026.09.11"
+    },
+    {
+      "name": "project-boards",
+      "source": "./plugins/project-boards",
+      "description": "Ведение досок разных проектов с отдельным контекстом. Требуется подключение Figma.",
+      "version": "0.1.0",
+      "category": "Productivity",
+      "platformRelease": "2026.09.11"
     }
   ]
 }
